@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eror5050
-- 👀 I’m interested in ... 'money'
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... 'coding'
 - 💞️ I’m looking to collaborate on ... 'Artificial intelligence'
 - 📫 How to reach me ... 'i am everywhere'
